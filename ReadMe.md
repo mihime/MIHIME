@@ -17,29 +17,24 @@
 ---
 
 <!-- About Me -->
-<div align="center">
-
 ### 🌸 About Me
 
-</div>
-
-```
-🌍  Based in Thailand
-🧠  Learning Python · C# · Lua
-🚀  Explorer Mode: ON
-✨  I'm learning new things I want to do,
-    but I haven't found them yet.
-    I have to keep looking for it.
-```
+![Thailand](https://img.shields.io/badge/🌍_Based_in-Thailand-ff4db8?style=for-the-badge&labelColor=1a0025)
+![Status](https://img.shields.io/badge/🚀_Explorer_Mode-ON-c084fc?style=for-the-badge&labelColor=1a0025)
+![Learning](https://img.shields.io/badge/🧠_Learning-Python_·_C%23_·_Lua-14b8a6?style=for-the-badge&labelColor=1a0025)
+![Vibe](https://img.shields.io/badge/✨_Still_searching-for_my_path...-f472b6?style=for-the-badge&labelColor=1a0025)
 
 ---
 
 <!-- Skills -->
 ### ⚡ Skills
 
-| C# | Python | Flask | Node.js | Blender | Lua |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" height="40"/> | <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" height="30"/> |
+![C#](https://img.shields.io/badge/C%23-9b59b6?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-e87d0d?style=for-the-badge&logo=blender&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
 
